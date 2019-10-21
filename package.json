@@ -1,0 +1,17 @@
+{
+  "name": "telegram-1",
+  "version": "1.0.0",
+  "description": "Bookmark Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "firebase": "^7.2.1",
+    "node-telegram-bot-api": "^0.40.0",
+    "open-graph-scraper": "^3.6.2"
+  }
+}
